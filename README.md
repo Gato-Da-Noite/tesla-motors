@@ -2,8 +2,7 @@
 
 ### DEMONSTRAÇÃO
 
-![PREVIEW](https://github.com/Gato-Da-Noite/BMW_page/blob/main/preview1.png)
-![PREVIEW2](https://github.com/Gato-Da-Noite/BMW_page/blob/main/preview2.png)
+![PREVIEW](https://raw.githubusercontent.com/Gato-Da-Noite/tesla-motors/main/preview.png)
 
 ### TECNOLOGIAS USADAS
 
