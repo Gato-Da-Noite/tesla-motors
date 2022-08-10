@@ -14,3 +14,5 @@
 ### DESCRIÇÃO
 
 A ideia do projeto é replicar a pagina da Tesla, assim praticando e incorporando novos conceitos, no momento só sei HTML e CSS, quando aprender JS vou começar a por melhores interações na pagina.
+
+OBS: Baixar para visualização de efeitos
