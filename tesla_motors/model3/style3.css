@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    background-image: url('/assets/cars/model_3.jpeg');
+    background-image: url('https://raw.githubusercontent.com/Gato-Da-Noite/tesla-motors/main/tesla_motors/assets/cars/model_3.jpeg');
     background-position-y: -85px;
     background-size: cover;
     color: #fff;
